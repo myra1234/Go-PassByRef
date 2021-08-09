@@ -9,7 +9,7 @@ func main (){
 	age:= 20
 
 	fmt.Println("Hello, my name is ",name, "and my age is ",age)
-    TodayIsMyBirthday(&age)
+    	TodayIsMyBirthday(&age)
 	fmt.Println("After party my age is ",age)
 }
 
