@@ -16,6 +16,6 @@ func main (){
 func TodayIsMyBirthday(age *int) int{
 	*age = 21
 
-	fmt.Println("Today is my ",*age," birthday")
+	fmt.Println("Today is my ",*age," birthday and I am going to party")
 	return *age
 }
